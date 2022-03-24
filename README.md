@@ -1,2 +1,1 @@
-# odin_recipes
-recipe website
+Korean Food Recipe Website—currently has 3 recipes. Planning to add more and decorate.
