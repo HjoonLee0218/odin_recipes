@@ -1,0 +1,121 @@
+img {
+    width: 700px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home.title {
+    font-size: 78px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe.title {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.description.title {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.description.para {
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.ingredients.title {
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+.ingredients.subtitle {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+ul {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: inside;
+}
+
+
+ol {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home.link {
+    font-size: 45px;
+    margin-left: 48%;
+    margin-bottom: 0%;
+    float:left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.steps.title {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe.body {
+    background-color: blanchedalmond;
+}
+
+.bulgogi.ingredients {
+    margin-left: 38%;
+}
+
+.home.body {
+
+}
+
+.notes.title {
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.notes.para {
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#army_stew_ingredients_main{
+    float: left;
+}
+
+#army_stew_ingredients_sauce {
+    float:left;
+}
+
+#army_stew_steps{
+    margin-bottom: 1%;
+    float:left;
+}
+
+#kfc_ingredients_1 {
+    float:left;
+}
+
+#kfc_ingredients_2 {
+    float:left;
+}
+
+#kfc_ingredients_3 {
+    float:left;
+}
+#kfc_steps_title{
+    margin-bottom: 1%;
+    float:left;
+}
